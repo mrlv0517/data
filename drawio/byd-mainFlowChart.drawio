@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T03:41:51.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="2z0OjNGW5TMetdmBCzSB" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T03:43:05.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="J8va0kFboMrRE69NZlJS" version="17.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="891" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6NIB8VkJaH95DR8nrTyr-14" value="Finish" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="720" width="100" height="60" as="geometry" />
+          <mxGeometry x="20" y="1060" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6NIB8VkJaH95DR8nrTyr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6NIB8VkJaH95DR8nrTyr-16" target="6NIB8VkJaH95DR8nrTyr-18">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,10 @@
         <mxCell id="6NIB8VkJaH95DR8nrTyr-25" value="初始化&lt;br&gt;SOMEIP 播发服务" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6NIB8VkJaH95DR8nrTyr-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6NIB8VkJaH95DR8nrTyr-27" target="6NIB8VkJaH95DR8nrTyr-29">
+        <mxCell id="6NIB8VkJaH95DR8nrTyr-30" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6NIB8VkJaH95DR8nrTyr-27" target="6NIB8VkJaH95DR8nrTyr-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6NIB8VkJaH95DR8nrTyr-31" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6NIB8VkJaH95DR8nrTyr-27" target="6NIB8VkJaH95DR8nrTyr-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6NIB8VkJaH95DR8nrTyr-27" value="SOMEIP初始化&lt;br&gt;是否正常" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

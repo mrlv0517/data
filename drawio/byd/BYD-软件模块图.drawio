@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T08:50:51.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" version="17.2.5" etag="R9H9WCcfqmm28yxsGSxC" type="github"><diagram id="l90hVm1JFMAIZHZQJ23w">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-05T08:51:05.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="6yQ4EPQdczPlbGid3g61" version="17.2.5" type="github">
+  <diagram id="l90hVm1JFMAIZHZQJ23w" name="Page-1">
+    <mxGraphModel dx="462" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="280" width="400" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-2" value="APP" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry width="400" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-3" value="软件版本管理" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry x="270" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-4" value="匿名ID获取" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry x="30" y="20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-5" value="星历数据获取" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry x="30" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-6" value="差分数据获取" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry x="30" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-7" value="故障状态上报" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry x="30" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-8" value="状态日志记录" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry x="270" y="20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-9" value="原始位置&#xa;数据获取" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry x="270" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZAz-tsIxhrAJHtpjlg-10" value="SOMEIP&#xa;数据播发" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="jZZAz-tsIxhrAJHtpjlg-1">
+          <mxGeometry x="270" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

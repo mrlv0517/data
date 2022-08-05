@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T07:50:13.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="cY9o5DrAq9U10uuu6SFV" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T08:59:10.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="85NT-XydPfPTCqqz7d2L" version="17.2.5" type="github">
   <diagram id="yVeXle2LPUaicNYPNFlM" name="Page-1">
     <mxGraphModel dx="1289" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,36 +30,6 @@
         </mxCell>
         <mxCell id="rQUu4i_vPEp-lecvEWJC-6" value="APP" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="344" y="300" width="170" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="960" y="280" width="400" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-15" value="APP" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry width="400" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-16" value="软件版本管理" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry x="270" y="90" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-17" value="匿名ID获取" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry x="30" y="20" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-18" value="星历数据获取" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry x="30" y="160" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-19" value="差分数据获取" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry x="30" y="230" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-20" value="故障状态上报" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry x="30" y="90" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-21" value="状态日志记录" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry x="270" y="20" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-22" value="原始位置&#xa;数据获取" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry x="270" y="230" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rQUu4i_vPEp-lecvEWJC-23" value="SOMEIP&#xa;数据播发" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="rQUu4i_vPEp-lecvEWJC-24">
-          <mxGeometry x="270" y="160" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rQUu4i_vPEp-lecvEWJC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQUu4i_vPEp-lecvEWJC-25" target="rQUu4i_vPEp-lecvEWJC-28">
           <mxGeometry relative="1" as="geometry" />
